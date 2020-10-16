@@ -1,0 +1,9 @@
+The average grades for assignment 1 is 71.41.
+The average grades for assignment 2 is 76.23.
+The average grades for assignment 3 is 63.36.
+The average grades for assignment 4 is 58.8.
+213 students got an A for assignment 1.
+240 students got an A for assignment 2.
+144 students got an A for assignment 3.
+26 students got an A for assignment 4.
+0 student(s) got an A for all 4 assignments.
